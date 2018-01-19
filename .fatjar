@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Jan 15 14:53:05 CST 2008
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=DrinkeryManage\uFF081.15.2\uFF09.jar
+manifest.mergeall=true
+manifest.mainclass=com.mwq.DrinkeryManage
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
